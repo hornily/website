@@ -1,3 +1,4 @@
+// old header, only used for parts of the site that haven't been updated yet
 <html>
 <head>
 <script type="text/javascript">
